@@ -1,0 +1,9 @@
+html {
+    background-color: rgb(211, 224, 214);
+}
+.logo_container {
+    max-width: 25vw;
+}
+.logo_container img {
+    width: 100%;
+}
